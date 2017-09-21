@@ -1,0 +1,20 @@
+{
+  "name": "node-dns-pointer",
+  "version": "0.0.1",
+  "private": false,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "=8.0.0",
+    "npm": "=5.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bishopZ/node-dns-pointer.git"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
